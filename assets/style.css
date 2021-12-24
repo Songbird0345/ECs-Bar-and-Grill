@@ -1,9 +1,14 @@
+
+
 html,
 body {
     margin: 0;
     padding: 0;
-    background-color: #6f97ab;
     text-align: center;
+}
+.background-image {
+    background-image: 'Pictures\background.jpg';
+    background-size: cover;
 }
 
 img {
