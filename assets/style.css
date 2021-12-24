@@ -12,7 +12,11 @@ img {
     align-items: center;
 }
 
-h1,
+h1 {
+    font-size: 4em;
+    color: #174867;
+}
+
 h2 {
     color: #174867;
 }
@@ -23,8 +27,8 @@ p {
 
 nav {
     background-color: #fdfeff;
-    padding: 10px;
-    width: 50%;
+    padding: 20px;
+    width: 40%;
 }
 
 nav ul {
@@ -38,7 +42,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    font-size: 1.6em;
+    font-size: 1.2em;
     color: #174867;
     margin-right: 25px;
 }
